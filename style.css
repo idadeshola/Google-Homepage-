@@ -1,0 +1,117 @@
+Body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #000000de;
+    margin: 0;
+    
+    }
+    .for-nav1{
+        margin: 40px;
+    }
+    body p{
+        margin: 0;
+    padding: 0;
+    }
+nav{
+    display: flex;
+    justify-content: space-around;
+    width:20%;
+    margin-left: auto;
+    
+}
+nav a{
+color: black;
+text-decoration: none;
+}
+nav img{
+    height: 20px;
+    
+    
+}
+.signin{
+    border-radius: 5px;
+    background-color: #1a73e8;
+    color: #ffffff;
+    padding: 10px 20px;
+    margin-top:-10px ;
+}
+main{
+    width: 50%;
+    margin:7em auto;
+    text-align: center;
+}
+input{
+    width:80%;
+    padding:1em;
+    border-radius: 100px;
+    border:1px solid #ccc;
+    outline: none !important;
+  
+}
+input:hover { 
+    box-shadow: 0px 3px 8px 2px #ccc;
+    -moz-box-shadow: 0px 3px 8px 2px #ccc;
+    -webkit-box-shadow: 0px 3px 8px 2px #ccc;
+    -khtml-box-shadow: 0px 3px 8px 2px #ccc;
+    
+}
+.btns-container{
+    margin-top: 1em;
+
+}
+.btns-container button{
+    border: none;
+    padding: 1em;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+}
+
+main p {
+    margin-top:2em;
+    
+}
+main a {
+margin:auto;
+text-decoration: none;
+padding: 2px;
+color: #000000;
+}
+
+Main img{
+    height: 100px;
+}
+main p a{
+    color: blue;
+}
+main p a:hover{
+    text-decoration: underline;
+}
+footer{
+   
+    background-color: #f2f2f2;
+    font-size: 15px;
+    color: grey;
+}
+
+.Nigeria{
+    padding: 1em;
+   
+}
+.under{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+.under a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 1em;
+}
+
+.footer-center a img{
+    height: 15px;
+}
+.under a:hover{
+    text-decoration: underline;
+}
